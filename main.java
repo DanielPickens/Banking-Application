@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	    BankAccount account = new BankAccount("Daotaku", "XYZ-001");
+	    BankAccount account = new BankAccount("Daniel", "XYZ-001");
         account.showMenu();
     }
 
